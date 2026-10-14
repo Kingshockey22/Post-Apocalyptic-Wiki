@@ -1,13 +1,13 @@
-POST APOCALYPTIC WIKI v2.5
+POST APOCALYPTIC WIKI v2.6
 
-Session 7: The Island’s Hidden Cavern
-Recorded September 29, 2026 (transcript filename September 30).
+Session 8 Summary — Discovery of Low Lantern
+Recording: October 13, 2026; transcript filename: October 14.
 
-Open index.html in a browser to preview. No installation or internet needed.
-Replace your GitHub Pages index.html with this file and commit to publish.
-The public URL remains unchanged.
+Open index.html in a browser to preview offline.
+Replace your published GitHub Pages index.html with this file and commit.
+Your public URL stays unchanged.
 
-Adds the session recap, seven discovery articles, character developments,
-timeline and mystery updates. Preserves the dark layout, logo, search,
-existing article URLs and all Session 2–6 recaps.
-Unconfirmed theories remain explicitly labeled.
+Includes the Session 8 recap, nine discovery articles, character updates,
+revised current state, timeline, magic history and unresolved mysteries.
+Preserves all previous session recaps, old article links, layout, logo,
+dark theme and search code. No external assets required.

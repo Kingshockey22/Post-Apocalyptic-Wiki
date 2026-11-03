@@ -1,5 +1,5 @@
 POST APOCALYPTIC WIKI
-Version 2.7 - Through Session 9
+Version 2.8 - Through Session 10
 =======================================
 
 A player-facing encyclopedia for the Post Apocalyptic D&D campaign.
@@ -22,6 +22,45 @@ No build step or other files are needed.
 
 VERSION HISTORY
 ===============
+
+2.8 - Session 10: Collapsed Bridge and the Missing Survey Crew
+---------------------------------------------------------------
+Released October 29, 2026.
+
+New articles:
+  - Dagna
+  - The Mining Guild
+  - The Three Keepers
+  - Cinder Junction
+  - The Missing Survey Crew
+  - The Blue-Painted Fingernail
+
+Updated:
+  - All six party pages (Session 10 sections, level 3)
+  - Tyras: last documented condition is now "Stranded at the
+    crystal mine"
+  - Bram Copperfoot (stranded at the mine)
+  - Darva Black Vein (the night after the collapse)
+  - Darva's Caravan Job, Hookback Ambush at the Chasm Bridge,
+    The Chasm Bridge (repair estimate), The Crystal Mine
+  - Hookbacks (second kill, where they come from)
+  - Low Lantern (government, guild, train), Shard Lung
+  - Unresolved Mysteries, Timeline, Characters, Places, Events,
+    Lore, and Objects indexes, Session Archive, main page,
+    and What's New
+
+DM revision:
+  - At the start of Session 10, the DM revised where everyone ended
+    up after the bridge explosion. Sterling and Tyras are stranded on
+    the mine side; Shin, Taurus, Oddr, and Xavros are on the Low
+    Lantern side. The ambush article records both versions. The
+    Session 9 recap is preserved as written.
+
+Source notes:
+  - The Session 10 recording header is dated October 27, 2026; its
+    filename uses October 28. The wiki follows the header.
+  - Shin's companion is called "Shoot" in play; the spelling is
+    unconfirmed.
 
 2.7 - Session 9: Hookback Ambush at the Crystal Mine
 ------------------------------------------------------

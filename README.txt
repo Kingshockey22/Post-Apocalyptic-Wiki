@@ -1,5 +1,5 @@
 POST APOCALYPTIC WIKI
-Version 2.8 - Through Session 10
+Version 2.9 - Through Session 11
 =======================================
 
 A player-facing encyclopedia for the Post Apocalyptic D&D campaign.
@@ -22,6 +22,43 @@ No build step or other files are needed.
 
 VERSION HISTORY
 ===============
+
+2.9 - Session 11: Taurus's Last Stand and the Crystal-Powered Train
+--------------------------------------------------------------------
+Released November 6, 2026.
+
+New articles:
+  - The Service Tunnel Collapse
+  - Laura Hammerhead
+  - The Soot and Lantern
+  - The Crystal-Powered Train
+  - Tyras's Rail Contract
+
+Updated:
+  - Taurus: status is now "Presumed dead (Session 11)"; last words
+    added to his infobox
+  - All other party pages (Session 11 sections)
+  - Tyras: last documented condition is now "Hungover; aboard the
+    train to Cinder Junction"
+  - Dagna (guild leader, rescue payout), Bram (scaffold bridge)
+  - Darva's Caravan Job (paid 23 gp each)
+  - The Chasm Bridge (temporary scaffold crossing)
+  - The Missing Survey Crew (completed; 2 of 3 rescued)
+  - The Crystal Mine, The Mining Guild, The Blue-Painted Fingernail,
+    Low Lantern's Glowing Crystals, Shard Lung, Low Lantern,
+    Cinder Junction, Darva's Belt of Dwarvenkind, Greyhaven
+  - Unresolved Mysteries, Timeline, Characters, Places, and Events
+    indexes, Session Archive, main page, and What's New
+
+Corrections:
+  - Fixed missing separators between run-together links in the
+    See also lines on Greyhaven and The Maribel. Every See also line
+    in the wiki was checked.
+
+Source notes:
+  - The Session 11 recording header is dated November 3, 2026; its
+    filename uses November 4. The wiki follows the header.
+  - The dead survey crew member's name is unclear in the recording.
 
 2.8 - Session 10: Collapsed Bridge and the Missing Survey Crew
 ---------------------------------------------------------------

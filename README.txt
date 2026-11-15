@@ -1,5 +1,5 @@
 POST APOCALYPTIC WIKI
-Version 2.9 - Through Session 11
+Version 2.10 - Through Session 12
 =======================================
 
 A player-facing encyclopedia for the Post Apocalyptic D&D campaign.
@@ -22,6 +22,38 @@ No build step or other files are needed.
 
 VERSION HISTORY
 ===============
+
+2.10 - Session 12: Cinder Junction Under Siege
+-----------------------------------------------
+Released November 15, 2026.
+
+New articles:
+  - Hakon (new party member)
+  - Lilina (new party member)
+  - Jaith
+  - The Attack on Cinder Junction
+  - The Scorched Runes
+
+Updated:
+  - Shin, Xavros, Tyras, Sterling, and Oddr (Session 12 sections)
+  - Sterling: class is now "Fighter (Eldritch Knight)"
+  - Oddr: known magic now lists Mending, Guidance, Cure Wounds,
+    and Heroism
+  - Tyras: last documented condition is now "Exhausted; sheltering in
+    Cinder Junction"
+  - Cinder Junction (first visit; contradictions with earlier reports)
+  - The Crystal-Powered Train (engine details; crew turned back)
+  - Tyras's Rail Contract (ended)
+  - Hookbacks, Low Lantern's Glowing Crystals, Magic and Ancient Lore,
+    the Underdark, Greyhaven (two more survivors)
+  - Unresolved Mysteries, Timeline, Characters, Events, and Lore
+    indexes, Session Archive, main page, and What's New
+
+Source notes:
+  - The Session 12 recording header is dated November 10, 2026; its
+    filename uses November 11. The wiki follows the header.
+  - Hakon's name is spelled several ways in the recording; "Hakon"
+    follows the recording's summary.
 
 2.9 - Session 11: Taurus's Last Stand and the Crystal-Powered Train
 --------------------------------------------------------------------

@@ -1,5 +1,5 @@
 POST APOCALYPTIC WIKI
-Version 2.10 - Through Session 12
+Version 2.10.1 - Through Session 12
 =======================================
 
 A player-facing encyclopedia for the Post Apocalyptic D&D campaign.
@@ -22,6 +22,19 @@ No build step or other files are needed.
 
 VERSION HISTORY
 ===============
+
+2.10.1 - Character portraits
+----------------------------
+Released November 15, 2026.
+
+  - Added cropped portraits to the infoboxes of Taurus, Tyras
+    Utsonomor, and Shin Pakida.
+  - Added matching round thumbnails beside those three names on the
+    Characters page.
+  - The portraits are embedded in index.html, so no image files need
+    to be uploaded.
+  - No articles, recaps, or links were changed. What's New notes the
+    update.
 
 2.10 - Session 12: Cinder Junction Under Siege
 -----------------------------------------------

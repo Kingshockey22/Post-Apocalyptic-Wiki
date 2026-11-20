@@ -1,5 +1,5 @@
 POST APOCALYPTIC WIKI
-Version 2.10.1 - Through Session 12
+Version 2.11 - Through Session 13
 =======================================
 
 A player-facing encyclopedia for the Post Apocalyptic D&D campaign.
@@ -22,6 +22,36 @@ No build step or other files are needed.
 
 VERSION HISTORY
 ===============
+
+2.11 - Session 13: Murder in the Root Cellar
+---------------------------------------------
+Released November 20, 2026.
+
+New articles:
+  - Nella
+  - The Murder in the Root Cellar
+  - The Patchwork Robe
+  - The Handmade Bag of Holding
+
+Updated:
+  - Shin, Xavros, Tyras, Sterling, Oddr, Hakon, and Lilina
+    (Session 13 sections)
+  - Lilina: her mentor is now named (Twila); familiar entry notes
+    Marmalade's link was lost
+  - Tyras: last documented condition is now "Sent to the guardhouse to
+    identify Nella's items"
+  - Jaith, Cinder Junction (First Warden, old downtown, blocked routes),
+    The Crystal-Powered Train (thousand-year-old rumor), Hookbacks,
+    the Underdark, Greyhaven
+  - Unresolved Mysteries, Timeline, Characters, Events, and Objects
+    indexes, Session Archive, main page, and What's New
+  - Character portraits from 2.10.1 are kept.
+
+Source notes:
+  - The Session 13 recording header is dated November 17, 2026; its
+    filename uses November 18. The wiki follows the header.
+  - First Warden Sarah Joss's name is spelled as heard.
+  - Time-travel ideas are recorded as party speculation, not fact.
 
 2.10.1 - Character portraits
 ----------------------------

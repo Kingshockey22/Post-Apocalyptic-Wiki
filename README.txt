@@ -1,5 +1,5 @@
 POST APOCALYPTIC WIKI
-Version 2.11 - Through Session 13
+Version 2.11.1 - Through Session 13
 =======================================
 
 A player-facing encyclopedia for the Post Apocalyptic D&D campaign.
@@ -22,6 +22,17 @@ No build step or other files are needed.
 
 VERSION HISTORY
 ===============
+
+2.11.1 - More portraits
+-----------------------
+Released November 20, 2026.
+
+  - Added cropped portraits to the infoboxes of Sterling and Hakon.
+  - Added matching round thumbnails beside both names on the
+    Characters page.
+  - Reframed Tyras's thumbnail so his face sits higher in the circle.
+  - No articles, recaps, or links were changed. What's New notes the
+    update.
 
 2.11 - Session 13: Murder in the Root Cellar
 ---------------------------------------------
